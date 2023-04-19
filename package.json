@@ -1,0 +1,14 @@
+{
+  "name": "coffee",
+  "version": "1.0.0",
+  "description": "myfirstdynamo using html css javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "boom",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
